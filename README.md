@@ -32,4 +32,4 @@ site-olimpiadas-2024/
 - Site
 ![Site](https://github.com/user-attachments/assets/083b85b7-7615-47ef-a3a0-b959b1f2491d)
 - Atletas
-- ![image](https://github.com/user-attachments/assets/0e76362e-63b2-4ebc-a732-bb0b725d3ab4)
+![image](https://github.com/user-attachments/assets/0e76362e-63b2-4ebc-a732-bb0b725d3ab4)
